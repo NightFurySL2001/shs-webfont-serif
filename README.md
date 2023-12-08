@@ -1,0 +1,1 @@
+This repo is used to host Source Han Serif for web font usage in SHS-CID project. Use the root `index.css` to get both Japanese and Korean OTF, or the individual `J.css` or `K.css` in the folder for one locale. This repo will be cloned in `jsdelivr`.
